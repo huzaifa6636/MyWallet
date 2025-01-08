@@ -10,8 +10,30 @@
     "test": "jest"
   },
   "dependencies": {
+    "@ethersproject/shims": "^5.7.0",
+    "@react-native-async-storage/async-storage": "^2.1.0",
+    "@react-native-clipboard/clipboard": "^1.15.0",
+    "@react-native-community/netinfo": "^11.4.1",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "@reown/appkit": "^1.6.3",
+    "@reown/appkit-adapter-ethers": "^1.6.3",
+    "@reown/appkit-coinbase-ethers-react-native": "^1.1.1",
+    "@walletconnect/react-native-compat": "^2.17.3",
+    "@walletconnect/web3wallet": "^1.16.1",
+    "ethers": "^6.13.5",
+    "expo": "^52.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.5"
+    "react-native": "0.76.5",
+    "react-native-gesture-handler": "^2.21.2",
+    "react-native-get-random-values": "^1.11.0",
+    "react-native-mmkv": "^3.2.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-qrcode-svg": "^6.3.12",
+    "react-native-safe-area-context": "^5.0.0",
+    "react-native-screens": "^4.4.0",
+    "react-native-svg": "^15.10.1",
+    "react-native-vision-camera": "^4.6.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
